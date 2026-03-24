@@ -1,0 +1,9 @@
+# This is a placeholder requirements.txt for the ML Model Deployment Patterns repository.
+# Specific patterns within this repository will have their own requirements.txt files.
+# Example dependencies for common ML deployments:
+# scikit-learn>=1.0.0
+# tensorflow>=2.0.0
+# torch>=1.10.0
+# fastapi>=0.70.0
+# uvicorn>=0.15.0
+# docker>=5.0.0
